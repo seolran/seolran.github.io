@@ -77,3 +77,5 @@ function calculate() {
     previousResult = '0';
     updateDisplay();
 }
+
+    
